@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tuan Thanh, I'm a Robotics Engineer</h1>
 <h3 align="center">I graduated bachero of Control and Automation Engineering in Hanoi University of Sience and Technology. I'm studying master of Control and Automation Engineering in HUST</h3>
 
-- 🌱 I work in **ROS2 and PX4 Flight Controller**
+- 🌱 I work in **Autonomous Vehicle**
 
 - 👨‍💻 All of my projects are available at [https://github.com/thanhnt2410](https://github.com/thanhnt2410)
 
